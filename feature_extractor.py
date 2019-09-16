@@ -3,7 +3,7 @@ from xlwt import Workbook
 import parselmouth
 
 # Loading all sound files
-# Adjust path to your file folder
+# Adjust path to your files folder
 SOUND_PATH = "C:\\tugas1\wav\\"
 sound_files = sorted(listdir(SOUND_PATH))
 
